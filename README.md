@@ -50,7 +50,7 @@
 
 ### 🌐 Let’s Connect
 
-📫 Email: tashafmukhtar00@gmail.com  
-🔗 LinkedIn: [tashafm1](https://www.linkedin.com/in/tashafm1)  
+📫 Email: tashafmukhtar@gmail.com  
+🔗 LinkedIn: [tashaf1](https://www.linkedin.com/in/tashaf1)  
 📍 Based in: Dubai, UAE  
 
