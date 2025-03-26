@@ -33,8 +33,24 @@
 
 ### 📌 Featured Projects
 
-- 🔥 [`PhotoLenseEditor`](https://github.com/tashafmukhtar00/PhotoLenseEditor) – Eye filter editor with ML Kit & face landmark detection
+- 👁️ [PhotoLenseEditor](https://github.com/tashafmukhtar00/PhotoLenseEditor)  
+  Real-time eye detection Android app using **ML Kit** with lens filters. Built using **Clean Architecture (MVVM)**. Includes face & eye landmark detection, modular codebase, and camera integration.
 
+---
+
+### 💼 Real-World Experience (Private)
+
+- 💬 **Enterprise Chat App @ MissionSoft Technology** *(Private Project)*  
+  Developed a feature-rich, production-grade **chat application** using **Stream Chat SDK** in a modular **MVVM Clean Architecture** setup.  
+  ✨ Key Highlights:
+  - Real-time private & group messaging with **role-based access**
+  - **Mute/Unmute**, **Delivered/Seen/Read** status
+  - **Message Selection Mode** (multi-select, delete, react, reply)
+  - Smart chat filtering (All / Unread / Group tabs)
+  - Fully **offline-capable** using **Realm Database**
+  - Firebase integration, Remote Config, custom dialogs, and smooth UX with XML
+
+> 🔒 Note: Source code not available publicly due to company confidentiality
 
 ---
 
@@ -53,4 +69,3 @@
 📫 Email: tashafmukhtar@gmail.com  
 🔗 LinkedIn: [tashaf1](https://www.linkedin.com/in/tashaf1)  
 📍 Based in: Dubai, UAE  
-
