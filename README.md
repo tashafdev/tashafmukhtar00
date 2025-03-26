@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Android Application Developer | AI/ML Enthusiast | Clean Architecture Advocate</b><br/>
-  Dubai 🇦🇪 &nbsp;•&nbsp; <a href="https://www.linkedin.com/in/tashafm1">LinkedIn</a> • <a href="mailto:tashafmukhtar00@gmail.com">Email</a>
+  Dubai 🇦🇪 &nbsp;•&nbsp; <a href="https://www.linkedin.com/in/tashaf1">LinkedIn</a> • <a href="mailto:tashafmukhtar@gmail.com">Email</a>
 </p>
 
 ---
