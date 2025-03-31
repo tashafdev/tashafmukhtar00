@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Android Application Developer | AI/ML Enthusiast | Clean Architecture Advocate</b><br/>
-  Dubai 🇦🇪 &nbsp;•&nbsp; <a href="https://www.linkedin.com/in/tashaf1">LinkedIn</a> • <a href="mailto:tashafmukhtar@gmail.com">Email</a>
+  Dubai 🇦🇪 &nbsp;•&nbsp; <a href="https://www.linkedin.com/in/tashafdev">LinkedIn</a> • <a href="mailto:tashaf.dev@gmail.com">Email</a>
 </p>
 
 ---
@@ -66,6 +66,6 @@
 
 ### 🌐 Let’s Connect
 
-📫 Email: tashafmukhtar@gmail.com  
-🔗 LinkedIn: [tashaf1](https://www.linkedin.com/in/tashaf1)  
+📫 Email: tashaf.dev@gmail.com  
+🔗 LinkedIn: [tashafdev](https://www.linkedin.com/in/tashafdev)  
 📍 Based in: Dubai, UAE  
